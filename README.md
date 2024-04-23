@@ -1,5 +1,14 @@
 
-# letsplay
+****# Let's Play****
+Let's Play" is application designed to meet new gaming friends. Our software eliminates the hassle by providing a seamless platform for gamers to connect by posting their requst. With features like customizable filters, advanced search functionality, and profile privacy controls, "Let's Play" ensures that users can easily find compatible gaming partners while maintaining their privacy and security. Additionally, our upcoming rating system for gamers will further enhance the user experience by enabling them to assess potential gaming companions more efficiently.
+
+**The main features:**
+• Customizable filters (priority 1)
+• Advanced search function (priority 2)
+• Profile privacy control (priority 3)
+• Rating system for gamers (priority 4)
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
 - [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
